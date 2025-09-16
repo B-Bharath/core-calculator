@@ -1,6 +1,6 @@
 # Mule 4 CPU Core Calculation Project
 
-This MuleSoft project provides an HTTP endpoint (`/cores`) that returns the number of available CPU cores on the server by calling a custom Java static method.  
+This MuleSoft project provides an HTTP endpoint (`/cores`) that returns the number of available CPU cores on the server for an API by calling a custom Java static method.  
 This is particularly useful for tuning parallel processing in integration solutions.
 
 ---
